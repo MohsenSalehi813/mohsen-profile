@@ -9,7 +9,7 @@ Passionate about **clean code, UI/UX design, and problem-solving**.
 💡 **Tech Stack:**  
 - **Languages:** Kotlin, Dart  
 - **Frameworks:** Jetpack Compose, Flutter  
-- **Tools:** Android Studio, Git, Mapbox SDK, Firebase  
+- **Tools:** Android Studio, Git, Firebase  
 
 📌 **Projects I've worked on:**  
 ✅ **Crypto & News App** (Similar to a digital wallet)  
