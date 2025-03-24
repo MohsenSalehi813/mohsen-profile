@@ -9,10 +9,7 @@ Crypto App is a simple yet powerful application designed to provide real-time cr
 - 📅 Historical price charts  
 - 📰 Latest crypto news  
 - 🌙 Dark mode support  
-
-## 📷 Screenshots
-![Crypto App Screenshot](assets/screenshot.png)  
-
+  
 ## 🛠️ Technologies Used
 - **Kotlin** for Android development  
 - **Jetpack Compose** for UI design  
